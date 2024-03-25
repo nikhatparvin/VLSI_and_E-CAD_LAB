@@ -1,7 +1,7 @@
 # E-CAD programs
 
 
-## 1. HDL code to realize all the logic gates
+## EXPERIMENT 1. HDL code to realize all the logic gates
 
 ```
 //Design file for all the logic gates - allgates.v
@@ -69,7 +69,7 @@ module allgates_tb;
 
 endmodule
 ```
-## 2. Design of 2-to-4 decoder
+## EXPERIMENT 2. Design of 2-to-4 decoder
 
 ```
 //design file of 2-to-4 decoder - decoder2to4.v
@@ -131,7 +131,7 @@ module decoder2to4_tb;
 endmodule
 ```
 
-## 3. Design of 8-to-3 encoder (without and with priority)
+## EXPERIMENT 3. Design of 8-to-3 encoder (without and with priority)
 #### 3.1 Design of 8-to-3 encoder (without priority)
 
 ```
@@ -259,7 +259,7 @@ module encoder8to3_withpriority_tb;
 
 endmodule
 ```
-## 4. Design of 8-to-1 multiplexer and 1-to-8 demultiplexer
+## EXPERIMENT 4. Design of 8-to-1 multiplexer and 1-to-8 demultiplexer
 #### 4.1 Design of 8-to-1 multiplexer
 ```
 // Design file 8-to-1 multiplexer - mux8to1.v
@@ -396,7 +396,7 @@ module demux1to8_tb;
 
 endmodule
 ```
-## 5. Design of 4-bit binary to gray code converter  - binary2gray4bit.v
+## EXPERIMENT 5. Design of 4-bit binary to gray code converter  - binary2gray4bit.v
 ```
 module binary2gray4bit(input [3:0]binary, output [3:0]gray);
 
@@ -446,7 +446,7 @@ module binary2gray4bit_tb;
 
 endmodule
 ```
-## 6. Design of 4-bit comparator - comparator4bit.v
+## EXPERIMENT 6. Design of 4-bit comparator - comparator4bit.v
 ```
 module comparator4bit(input [3:0] a,b, output aeqb,altb,agtb);
 
@@ -495,7 +495,7 @@ module comparator4bit_tb;
 
 endmodule
 ```
-##  7. Design of Full adder using 3 modeling styles
+##  EXPERIMENT 7. Design of Full adder using 3 modeling styles
 #### 7.1 Gatelevel modeling
 ```
 // 7.1 Gatelevel modeling fa_gatelevel.v
@@ -664,7 +664,7 @@ module fa_behavioural_tb;
 
 endmodule
 ```
-## 8. Design of flip flops: SR, D, JK, T
+## EXPERIMENT 8. Design of flip flops: SR, D, JK, T
 #### 8.1 SR Flipflop
 ```
 // Design file of  8.1 SR Flipflop - srff.v
@@ -976,7 +976,7 @@ module tff_tb;
 endmodule
 ```
 
-## 9. Design of 4-bit binary, BCD counters (synchronous/asynchronous reset) or any sequence counter
+## EXPERIMENT 9. Design of 4-bit binary, BCD counters (synchronous/asynchronous reset) or any sequence counter
 
 #### 9.1  Design of 4-bit binary counter (synchronous reset)
 ```
