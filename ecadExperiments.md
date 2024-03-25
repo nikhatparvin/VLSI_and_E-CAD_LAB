@@ -964,11 +964,11 @@ module tff_tb;
 
 endmodule
 ```
+
+#### 9. Design of 4-bit binary, BCD counters (synchronous/asynchronous reset) or any sequence counter
+
+###### 9.1  Design of 4-bit binary counter (synchronous reset) - binary4bitcounter_sr.v
 ```
-//9. Design of 4-bit binary, BCD counters (synchronous/asynchronous reset) or any sequence counter
-
-// 9.1  Design of 4-bit binary counter (synchronous reset) - binary4bitcounter_sr.v
-
 module binary4bitcounter_sr(input clk,rst,output reg [3:0]count);
 
 always@(posedge clk)
@@ -1024,9 +1024,9 @@ module binary4bitcounter_sr_tb;
 
 endmodule
 ```
-```
-// 9.2  Design of 4-bit binary counter (asynchronous reset) - binary4bitcounter_asr.v
 
+###### 9.2  Design of 4-bit binary counter (asynchronous reset) - binary4bitcounter_asr.v
+```
 module binary4bitcounter_asr(input clk,rst,output reg [3:0]count);
 
 always@(posedge clk,posedge rst)
@@ -1086,9 +1086,9 @@ module binary4bitcounter_asr_tb;
   
 endmodule
 ```
-```
-// 9.3  Design of 4-bit BCD counter (synchronous reset) bcd4bitcounter_sr.v
 
+###### 9.3  Design of 4-bit BCD counter (synchronous reset) bcd4bitcounter_sr.v
+```
 module bcd4bitcounter_sr(input clk,rst,output reg [3:0]count);
 
 always@(posedge clk)
@@ -1151,9 +1151,9 @@ module bcd4bitcounter_sr_tb;
 
 endmodule
 ```
-```
-// 9.4  Design of 4-bit BCD counter (asynchronous reset) -  bcd4bitcounter_asr.v
 
+###### 9.4  Design of 4-bit BCD counter (asynchronous reset) -  bcd4bitcounter_asr.v
+```
 module bcd4bitcounter_asr(input clk,rst,output reg [3:0]count);
 
 always@(posedge clk,posedge rst)
