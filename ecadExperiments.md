@@ -1,7 +1,7 @@
-## E-CAD programs
+# E-CAD programs
 
 
-#### 1. HDL code to realize all the logic gates
+## 1. HDL code to realize all the logic gates
 
 ```
 //Design file for all the logic gates - allgates.v
@@ -69,7 +69,7 @@ module allgates_tb;
 
 endmodule
 ```
-#### 2. Design of 2-to-4 decoder
+## 2. Design of 2-to-4 decoder
 
 ```
 //design file of 2-to-4 decoder - decoder2to4.v
@@ -131,7 +131,8 @@ module decoder2to4_tb;
 endmodule
 ```
 
-#### 3. Design of 8-to-3 encoder (without and with priority)
+## 3. Design of 8-to-3 encoder (without and with priority)
+#### 3.1 Design of 8-to-3 encoder (without priority)
 
 ```
 //Design of 8-to-3 encoder (without priority) - encoder8to3_withoutpriority.v
@@ -195,6 +196,7 @@ module encoder8to3_withoutpriority_tb;
 
 endmodule
 ```
+#### 3.2 Design of 8-to-3 encoder (with priority)
 ```
 //Design of 8-to-3 encoder (with priority) - encoder8to3_withpriority.v
 
@@ -257,7 +259,8 @@ module encoder8to3_withpriority_tb;
 
 endmodule
 ```
-#### 4. Design of 8-to-1 multiplexer and 1-to-8 demultiplexer
+## 4. Design of 8-to-1 multiplexer and 1-to-8 demultiplexer
+#### 4.1 Design of 8-to-1 multiplexer
 ```
 // Design file 8-to-1 multiplexer - mux8to1.v
 
@@ -324,6 +327,7 @@ module mux8to1_tb;
 
 endmodule
 ```
+#### 4.2 Design of 1-to-8 demultiplexer
 ```
 // Design file 1-to-8 demultiplexer  -  demux1to8.v
 
@@ -392,7 +396,7 @@ module demux1to8_tb;
 
 endmodule
 ```
-#### 5. Design of 4-bit binary to gray code converter  - binary2gray4bit.v
+## 5. Design of 4-bit binary to gray code converter  - binary2gray4bit.v
 ```
 module binary2gray4bit(input [3:0]binary, output [3:0]gray);
 
@@ -442,7 +446,7 @@ module binary2gray4bit_tb;
 
 endmodule
 ```
-#### 6. Design of 4-bit comparator - comparator4bit.v
+## 6. Design of 4-bit comparator - comparator4bit.v
 ```
 module comparator4bit(input [3:0] a,b, output aeqb,altb,agtb);
 
@@ -491,7 +495,8 @@ module comparator4bit_tb;
 
 endmodule
 ```
-####  7. Design of Full adder using 3 modeling styles
+##  7. Design of Full adder using 3 modeling styles
+#### 7.1 Gatelevel modeling
 ```
 // 7.1 Gatelevel modeling fa_gatelevel.v
 
@@ -546,6 +551,7 @@ module fa_gatelevel_tb;
 
 endmodule
 ```
+#### 7.2 Dataflow modeling
 ```
 // 7.2 Dataflow modeling  - fa_dataflow.v
 
@@ -598,6 +604,7 @@ module fa_dataflow_tb;
 
 endmodule
 ```
+#### 7.3 Behavioural modeling
 ```	
 // 7.3 Behavioural modeling  - fa_behavioural.v
 
