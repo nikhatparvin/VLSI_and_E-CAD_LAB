@@ -657,9 +657,10 @@ module fa_behavioural_tb;
 
 endmodule
 ```
-#### 8. Design of flip flops: SR, D, JK, T
+## 8. Design of flip flops: SR, D, JK, T
+#### 8.1 SR Flipflop
 ```
-// 8.1 SR Flipflop - srff.v
+// Design file of  8.1 SR Flipflop - srff.v
 
 module srff(input clk,rst,s,r, output reg q,qbar);
 
@@ -737,8 +738,9 @@ module srff_tb;
 
 endmodule
 ```
+#### 8.2 D Flipflop
 ```
-// 8.2 D Flipflop - dff.v
+// Design file of 8.2 D Flipflop - dff.v
 
 module dff(input clk,rst,d,output reg q,qbar);
 
@@ -811,8 +813,9 @@ module dff_tb;
 
 endmodule
 ```
+#### 8.3 JK Flipflop
 ```
-// 8.3 JK Flipflop
+// Design file of  8.3 JK Flipflop - jkff.v
 
 module jkff(input clk,rst,j,k, output reg q,qbar);
 
@@ -890,8 +893,9 @@ module jkff_tb;
 
 endmodule
 ```
+#### 8.4 T Flipflop
 ```
-// 8.4 T Flipflop
+// Design file of 8.4 T Flipflop - tff.v
 
 module tff(input clk,rst,t,output reg q,qbar);
 
@@ -967,7 +971,7 @@ endmodule
 
 ## 9. Design of 4-bit binary, BCD counters (synchronous/asynchronous reset) or any sequence counter
 
-#### 9.1  Design of 4-bit binary counter (synchronous reset) - binary4bitcounter_sr.v
+#### 9.1  Design of 4-bit binary counter (synchronous reset)
 ```
 // Design of 4-bit binary counter (synchronous reset) - binary4bitcounter_sr.v
 
@@ -1027,7 +1031,7 @@ module binary4bitcounter_sr_tb;
 endmodule
 ```
 
-#### 9.2  Design of 4-bit binary counter (asynchronous reset) - binary4bitcounter_asr.v
+#### 9.2  Design of 4-bit binary counter (asynchronous reset)
 ```
 // Design of 4-bit binary counter (asynchronous reset) - binary4bitcounter_asr.v
 
@@ -1091,9 +1095,9 @@ module binary4bitcounter_asr_tb;
 endmodule
 ```
 
-#### 9.3  Design of 4-bit BCD counter (synchronous reset) bcd4bitcounter_sr.v
+#### 9.3  Design of 4-bit BCD counter (synchronous reset)
 ```
-// Design of 4-bit BCD counter (synchronous reset) bcd4bitcounter_sr.v
+// Design of 4-bit BCD counter (synchronous reset) - bcd4bitcounter_sr.v
 
 module bcd4bitcounter_sr(input clk,rst,output reg [3:0]count);
 
@@ -1158,7 +1162,7 @@ module bcd4bitcounter_sr_tb;
 endmodule
 ```
 
-#### 9.4  Design of 4-bit BCD counter (asynchronous reset) -  bcd4bitcounter_asr.v
+#### 9.4  Design of 4-bit BCD counter (asynchronous reset) 
 ```
 // Design of 4-bit BCD counter (asynchronous reset) -  bcd4bitcounter_asr.v
 
