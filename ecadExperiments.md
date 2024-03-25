@@ -504,7 +504,7 @@ endmodule
 	or g5(co,c1,c2,c3);	
 	
 	endmodule
-	```
+```
 ```
 // 7.1 Testbench of Gatelevel modeling fa_gatelevel_tb.v
 
