@@ -102,8 +102,13 @@ Fig. 12b
 <br/>
 Fig. 13
 <br/>
-<br/><b>step14: After clicking on Next you will see as shown in Fig. 14 , click on Create File</b>
+<br/><b>step14a: After clicking on Next you will see as shown in Fig. 14a , click on Create File</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/5de355db-f9d1-4e0d-a874-174c3edd5eb5)
 <br/>
-Fig. 14
+Fig. 14a
+<br/>
+<br/><b>step14b: After clicking on Create File you will see as shown in Fig. 14b , follow the marked as shown with numbers</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/f85ef980-e605-41f8-8dff-7004efa52171)
+<br/>
+Fig. 14b
 <br/>
