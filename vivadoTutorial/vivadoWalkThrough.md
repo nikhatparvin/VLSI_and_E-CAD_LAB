@@ -96,3 +96,9 @@ Fig. 12a
 <br/>
 Fig. 12b
 <br/>
+## Testbench
+<br/><b>step13: After writing your verilog program, it is required to be verified for its correctness by applying various inputs called stimulus which is done through the testbench. To add the testbench to the project do as shown in Fig. 13</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/d0c04fbc-6ba2-49f0-b0a5-9840d61ff991)
+<br/>
+Fig. 13
+<br/>
