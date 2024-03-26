@@ -129,3 +129,6 @@ Fig. 14e
 <br/>
 <br/><b>step15: After clicking on Yes , it will show-up as shown in Fig. 15, Expand the way shown with rounded black circles by following the numbering and then double click on the name of the testbench to view it as shown in righthand side tab. here you write your testbench</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/ab32d563-f5d6-43ce-98bf-ae3a049be301)
+<br/>
+Fig. 15
+<br/>
