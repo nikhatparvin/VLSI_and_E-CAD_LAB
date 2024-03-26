@@ -61,8 +61,13 @@ Fig. 9
 <br/>
 Fig. 10
 <br/>
-<br/><b>step11: To add design file to project follow as shown in Fig. 11</b>
+<br/><b>step11a: To add design file to project follow as shown in Fig. 11a</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/58e37bcb-2e00-4474-bf4a-61c33b19a1cd)
 <br/>
-Fig. 11
+Fig. 11a
+<br/>
+<br/><b>step11b: To add design file to project follow as shown in Fig. 11b</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/c599a713-a517-4482-a676-64d7a311c058)
+<br/>
+Fig. 11b
 <br/>
