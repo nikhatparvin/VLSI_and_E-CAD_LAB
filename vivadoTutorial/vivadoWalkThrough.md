@@ -86,7 +86,7 @@ Fig. 11d
 <br/>
 Fig. 11e
 <br/>
-<br/><b>step12: After clicking on Yes, it will appear as shown in Fig. 12, If you double click at the place</b>
+<br/><b>step12: After clicking on Yes, it will appear as shown in Fig. 12, If you double click at the place marked with 1 then you will see righthand side marked with 2. It is here you write your verilog program. </b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/4d593a58-00c1-47d4-8170-afdbdb3a8be0)
 <br/>
 Fig. 12
