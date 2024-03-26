@@ -142,3 +142,9 @@ Fig. 16
 <br/>
 Fig. 17
 <br/>
+## Simulation
+<br/><b>step18: Perform behavioural simualtion as shown in Fig. 18</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/8b59aaec-b351-431d-a49b-cd6295a8fb2e)
+<br/>
+Fig. 18
+<br/>
