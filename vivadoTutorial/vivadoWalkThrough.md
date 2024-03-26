@@ -66,7 +66,7 @@ Fig. 10
 <br/>
 Fig. 11a
 <br/>
-<br/><b>step11b: To add design file to project follow as shown in Fig. 11b</b>
+<br/><b>step11b: To add design file to project follow as shown in Fig. 11b, here click on create file then you will see a dialogue box shown in rounded 2, in side that box give file name let's say fulladder, then click OK</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/c599a713-a517-4482-a676-64d7a311c058)
 <br/>
 Fig. 11b
