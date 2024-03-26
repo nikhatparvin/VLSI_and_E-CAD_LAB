@@ -81,3 +81,8 @@ Fig. 11c
 <br/>
 Fig. 11d
 <br/>
+<br/><b>step11e: After clicking on OK, it will appear as shown in Fig. 11e, click on Yes</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/9d8e8f98-18e6-48ad-9021-1c23f41a9801)
+<br/>
+Fig. 11e
+<br/>
