@@ -116,18 +116,20 @@ Fig. 14b
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/f3011a47-e3ff-4dfb-8391-9136deb03804)
 <br/>
 Fig. 14c
-
 <br/>
+
 <br/><b>step14d: After clicking on Finish , it will show-up as shown in Fig. 14d, click on OK</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/26c47e4a-678c-4dd3-bac7-69ea8a484401)
 <br/>
 Fig. 14d
 <br/>
+
 <br/><b>step14e: After clicking on OK , it will show-up as shown in Fig. 14e, click on Yes</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/0c974204-6c35-46c1-b57a-834dc187de3e)
 <br/>
 Fig. 14e
 <br/>
+
 <br/><b>step15: After clicking on Yes , it will show-up as shown in Fig. 15, Expand the way shown with rounded black circles by following the numbering and then double click on the name of the testbench to view it as shown in righthand side tab. here you write your testbench</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/ab32d563-f5d6-43ce-98bf-ae3a049be301)
 <br/>
