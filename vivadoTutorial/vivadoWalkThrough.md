@@ -21,8 +21,13 @@ Fig. 2
 Fig. 3
 <br/>
 
-<b>step4:Before clicking on Next, ensure all the things as shown in Fig. 4</b>
+<b>step4a:Before clicking on Next, ensure all the things as shown in Fig. 4a</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/66004a1a-88b1-4741-9405-b44a72f6a0b4)
 <br/>
-Fig. 4
+Fig. 4a
+<br/>
+<b>step4b:let's do full_adder example as shown in Fig. 4b</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/79d92495-5257-4514-bd61-06afe5723d2d)
+<br/>
+Fig. 4b
 <br/>
