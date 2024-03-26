@@ -137,3 +137,8 @@ Fig. 15
 <br/>
 Fig. 16
 <br/>
+<br/><b>step17: After saving the file as shown in Fig. 17</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/00c70004-42a1-458d-9a71-46e9a9191af8)
+<br/>
+Fig. 17
+<br/>
