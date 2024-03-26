@@ -112,3 +112,8 @@ Fig. 14a
 <br/>
 Fig. 14b
 <br/>
+<br/><b>step14c: After clicking on OK , click on Finish as shown in Fig. 14c</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/f3011a47-e3ff-4dfb-8391-9136deb03804)
+<br/>
+Fig. 14c
+<br/>
