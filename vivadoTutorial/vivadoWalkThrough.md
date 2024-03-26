@@ -148,3 +148,8 @@ Fig. 17
 <br/>
 Fig. 18
 <br/>
+<br/><b>step19: After performing behavioural simualtion it will appear as shown in Fig. 19, first see at marked 1 and then click on marked with 2 to see the waveform.</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/c8fe793f-359b-451c-bf12-e236a0417fad)
+<br/>
+Fig. 19
+<br/>
