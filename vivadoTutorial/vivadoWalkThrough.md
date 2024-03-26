@@ -58,7 +58,6 @@ Fig. 9
 <br/>
 <br/><b>step10: After Finish it appears as shown in Fig. 10, Observe it has got several sub-windows and sub-tabs</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/0febd3fd-cceb-4039-b8b6-e432ea9a446e)
-
 <br/>
 Fig. 10
 <br/>
