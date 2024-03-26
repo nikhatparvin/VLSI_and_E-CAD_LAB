@@ -60,6 +60,7 @@ Fig. 9
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/0febd3fd-cceb-4039-b8b6-e432ea9a446e)
 <br/>
 Fig. 10
+## How to add design file to the project
 <br/>
 <br/><b>step11a: To add design file to project follow as shown in Fig. 11a</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/58e37bcb-2e00-4474-bf4a-61c33b19a1cd)
@@ -96,7 +97,7 @@ Fig. 12a
 <br/>
 Fig. 12b
 <br/>
-## Testbench
+## How to add Testbench to the project
 <br/><b>step13: After writing your verilog program, it is required to be verified for its correctness by applying various inputs called stimulus which is done through the testbench. To add the testbench to the project do as shown in Fig. 13</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/d0c04fbc-6ba2-49f0-b0a5-9840d61ff991)
 <br/>
@@ -142,7 +143,7 @@ Fig. 16
 <br/>
 Fig. 17
 <br/>
-## Simulation
+## How to perform simulation
 <br/><b>step18: Perform behavioural simualtion as shown in Fig. 18, first click on marked 1 and then click on marked with 2</b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/8b59aaec-b351-431d-a49b-cd6295a8fb2e)
 <br/>
