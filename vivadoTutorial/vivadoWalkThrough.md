@@ -36,3 +36,8 @@ Fig. 4b
 <br/>
 Fig. 5
 <br/>
+<b>step6: Now follow this step as shown in Fig. 6</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/a6c28788-89b6-466a-a96b-bf4706cebf6f)
+<br/>
+Fig. 5
+<br/>
