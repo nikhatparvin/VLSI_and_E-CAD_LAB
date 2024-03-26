@@ -71,3 +71,8 @@ Fig. 11a
 <br/>
 Fig. 11b
 <br/>
+<br/><b>step11c: After clicking on OK, it will appear as shown in Fig. 11c, click on Finish</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/c46f679e-2148-4713-8e4d-f0169a37d5ee)
+<br/>
+Fig. 11c
+<br/>
