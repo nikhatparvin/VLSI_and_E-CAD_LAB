@@ -132,3 +132,8 @@ Fig. 14e
 <br/>
 Fig. 15
 <br/>
+<br/><b>step16: After editing save the file as shown in Fig. 16</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/3f872b68-eaba-4c52-b724-854335a31146)
+<br/>
+Fig. 16
+<br/>
