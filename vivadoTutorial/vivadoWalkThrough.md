@@ -153,3 +153,8 @@ Fig. 18
 <br/>
 Fig. 19
 <br/>
+<br/><b>step20: Waveform is as shown in Fig. 20 click at marked with 1 to see full view.</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/3b5e2ed8-7517-4685-a071-86a4a1b83056)
+<br/>
+Fig. 20
+<br/>
