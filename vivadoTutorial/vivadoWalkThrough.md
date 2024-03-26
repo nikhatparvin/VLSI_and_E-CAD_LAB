@@ -86,8 +86,13 @@ Fig. 11d
 <br/>
 Fig. 11e
 <br/>
-<br/><b>step12: After clicking on Yes, it will appear as shown in Fig. 12, If you double click at the place marked with 1 then you will see righthand side marked with 2. It is here you write your verilog program. </b>
+<br/><b>step12a: After clicking on Yes, it will appear as shown in Fig. 12a, If you double click at the place marked with 1 then you will see righthand side marked with 2. It is here you write your verilog program. </b>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/4d593a58-00c1-47d4-8170-afdbdb3a8be0)
 <br/>
-Fig. 12
+Fig. 12a
+<br/>
+<br/><b>step12b: After writing your verilog program which marked at 1 to save this file click at the marked place 2 as shown in Fig. 12b. </b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/741e2d87-7fdc-4c11-98c7-d508ca71631b)
+<br/>
+Fig. 12b
 <br/>
