@@ -46,3 +46,8 @@ Fig. 6
 <br/>
 Fig. 7
 <br/>
+<b>step8: Now follow these before clicking on Next as shown in Fig. 8</b>
+![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/02ae1def-6904-4985-895e-0b8f0198aba1)
+<br/>
+Fig. 8
+<br/>
