@@ -122,7 +122,7 @@ Fig. 14c
 <br/>
 Fig. 14d
 
-<br/><b>step14e: After clicking on OK , it will show-up as shown in Fig. 14e, click on Yes</b>
+<br/><b>step14e: After clicking on OK , it will show-up as shown in Fig. 14e, click on Yes</b><br/>
 ![image](https://github.com/nikhatparvin/VLSI_and_E-CAD_LAB/assets/164909726/0c974204-6c35-46c1-b57a-834dc187de3e)
 <br/>
 Fig. 14e
